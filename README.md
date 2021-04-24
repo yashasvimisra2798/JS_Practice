@@ -1,1 +1,1 @@
-# 30-Days-of-JavaScript
+# Beginner Friendly JS Projects
